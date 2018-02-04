@@ -25,7 +25,10 @@
     "babel-preset-stage-2": "^6.11.0",
     "create-react-class": "^15.6.3",
     "css-loader": "^0.28.9",
+    "react-redux": "^5.0.6",
     "react-router": "^2.8.1",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
     "style-loader": "^0.20.1",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1"
